@@ -1,0 +1,9 @@
+C:\Users\Kosetsu\Documents\GitHub\ModernWindowFrameLibrary\ModernWindowFrameLibrary\bin\Release\ModernWindowFrameLibrary.dll
+C:\Users\Kosetsu\Documents\GitHub\ModernWindowFrameLibrary\ModernWindowFrameLibrary\bin\Release\ModernWindowFrameLibrary.pdb
+C:\Users\Kosetsu\Documents\GitHub\ModernWindowFrameLibrary\ModernWindowFrameLibrary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kosetsu\Documents\GitHub\ModernWindowFrameLibrary\ModernWindowFrameLibrary\obj\Release\ModernWindowFrameLibrary_MarkupCompile.cache
+C:\Users\Kosetsu\Documents\GitHub\ModernWindowFrameLibrary\ModernWindowFrameLibrary\obj\Release\ModernWindowFrameLibrary_MarkupCompile.lref
+C:\Users\Kosetsu\Documents\GitHub\ModernWindowFrameLibrary\ModernWindowFrameLibrary\obj\Release\resources\ModernWindowFrameStyleRecourceDictionary.baml
+C:\Users\Kosetsu\Documents\GitHub\ModernWindowFrameLibrary\ModernWindowFrameLibrary\obj\Release\ModernWindowFrameLibrary.g.resources
+C:\Users\Kosetsu\Documents\GitHub\ModernWindowFrameLibrary\ModernWindowFrameLibrary\obj\Release\ModernWindowFrameLibrary.dll
+C:\Users\Kosetsu\Documents\GitHub\ModernWindowFrameLibrary\ModernWindowFrameLibrary\obj\Release\ModernWindowFrameLibrary.pdb
